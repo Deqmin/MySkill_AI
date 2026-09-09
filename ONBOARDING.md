@@ -28,6 +28,7 @@ There is currently no installation, build, test, lint, format, or deployment com
 | `.github/skills/repo-explorer/SKILL.md` | Instructions for producing a repository architecture and onboarding guide. |
 | `.github/skills/research-brief/SKILL.md` | Instructions for producing a focused research brief with citations. |
 | `.github/skills/idea-to-execution/SKILL.md` | Instructions for turning an idea into an implementation plan. |
+| `readme.md` | Overview of the SQL Query Helper and its example use cases. |
 | `ONBOARDING.md` | This repository onboarding guide. |
 
 ## Architecture

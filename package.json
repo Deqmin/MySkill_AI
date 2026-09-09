@@ -1,0 +1,29 @@
+{
+  "name": "@deqmin99/sql-query-helper",
+  "version": "1.0.0",
+  "description": "GitHub skills for Microsoft SQL Server development, troubleshooting, optimization, and repository analysis.",
+  "keywords": [
+    "github-skill",
+    "sql-server",
+    "t-sql",
+    "database",
+    "query-optimization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deqmin/MySkill_AI.git"
+  },
+  "homepage": "https://github.com/Deqmin/MySkill_AI#readme",
+  "bugs": {
+    "url": "https://github.com/Deqmin/MySkill_AI/issues"
+  },
+  "files": [
+    "readme.md",
+    "ONBOARDING.md",
+    ".github/skills"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}
